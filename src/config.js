@@ -4,19 +4,19 @@ exports.trigger = "physics";
 // Bot owner information
 exports.owner = {
     "names": {
-        "short": "Cameron",
-        "long": "Cameron Bernhardt"
+        "short": "matt",
+        "long": "matt dan"
     },
-    "id": "100007016509302" // ID of bot owner (for secure commands, reports, and alerts)
+    "id": "61559166740425" // ID of bot owner (for secure commands, reports, and alerts)
 };
 
 // Bot information
 exports.bot = {
     "names": {
-        "short": "AØBøt", // Will be used as 'nickname' in chat (remove if same as account name)
-        "long": "AssumeZero Bot" // Name displayed in profile on bot's Facebook account
+        "short": "mari", // Will be used as 'nickname' in chat (remove if same as account name)
+        "long": "mari bot" // Name displayed in profile on bot's Facebook account
     },
-    "id": "100041587845629" // Bot's ID (for security purposes in commands)
+    "id": "61566141660734" // Bot's ID (for security purposes in commands)
 };
 
 // Location of the bot repo if automatic GitHub webhook deploys are used
@@ -85,8 +85,8 @@ exports.votePoints = 5;
 
 // Default playlist to use if group has no added playlists
 exports.defaultPlaylist = {
-    "name": "Assume Zero Brain Power",
-    "user": "astrocb",
+    "name": "mari bot",
+    "user": "mari zrqmq",
     "uri": "4joxRVv8wzT4keFzCS3gAt"
 };
 
@@ -163,8 +163,8 @@ exports.channelMentionRegex = /@@(all|everyone|channel)/i;
 
 // Config to specify where to post new GitHub issues created by the bot
 exports.ghRepo = {
-    owner: 'AstroCB',
-    repo: 'AssumeZero-Bot'
+    owner: 'matt dan',
+    repo: 'Mari-Bot'
 };
 
 // Amount of time (in seconds) after a scheduled event time that we're allowed to
